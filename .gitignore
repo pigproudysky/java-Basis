@@ -1,0 +1,66 @@
+# GRADLE
+.gradle/
+*/.gradle
+gradlew
+gradlew.bat
+*/gradlew
+*/gradlew.bat
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+*/.mtj.tmp/
+
+# STS
+.settings/
+*/.apt_generated
+*/.classpath
+*/.factorypath
+*/.project
+*/.settings
+*/.springBeans
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*/.idea
+*.iws
+*.iml
+*.ipr
+
+# MacOS
+.DS_Store
+*/.DS_Store
+
+# log
+*.log
+
+# virtual machine crash logs
+hs_err_pid*
+
+*/.gitignore
+.metadata/
+*/.metadata/
+
+target/
+build/
+bin/
+
+*/.target/
+*/build/
+*/out/
+*/bin/
+
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
